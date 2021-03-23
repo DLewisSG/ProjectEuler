@@ -1,0 +1,16 @@
+C:\Users\dylan\source\repos\ProjectEulerProblem10\ProjectEulerProblem10\bin\Debug\net5.0\ProjectEulerProblem10.exe
+C:\Users\dylan\source\repos\ProjectEulerProblem10\ProjectEulerProblem10\bin\Debug\net5.0\ProjectEulerProblem10.deps.json
+C:\Users\dylan\source\repos\ProjectEulerProblem10\ProjectEulerProblem10\bin\Debug\net5.0\ProjectEulerProblem10.runtimeconfig.json
+C:\Users\dylan\source\repos\ProjectEulerProblem10\ProjectEulerProblem10\bin\Debug\net5.0\ProjectEulerProblem10.runtimeconfig.dev.json
+C:\Users\dylan\source\repos\ProjectEulerProblem10\ProjectEulerProblem10\bin\Debug\net5.0\ProjectEulerProblem10.dll
+C:\Users\dylan\source\repos\ProjectEulerProblem10\ProjectEulerProblem10\bin\Debug\net5.0\ref\ProjectEulerProblem10.dll
+C:\Users\dylan\source\repos\ProjectEulerProblem10\ProjectEulerProblem10\bin\Debug\net5.0\ProjectEulerProblem10.pdb
+C:\Users\dylan\source\repos\ProjectEulerProblem10\ProjectEulerProblem10\obj\Debug\net5.0\ProjectEulerProblem10.csprojAssemblyReference.cache
+C:\Users\dylan\source\repos\ProjectEulerProblem10\ProjectEulerProblem10\obj\Debug\net5.0\ProjectEulerProblem10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dylan\source\repos\ProjectEulerProblem10\ProjectEulerProblem10\obj\Debug\net5.0\ProjectEulerProblem10.AssemblyInfoInputs.cache
+C:\Users\dylan\source\repos\ProjectEulerProblem10\ProjectEulerProblem10\obj\Debug\net5.0\ProjectEulerProblem10.AssemblyInfo.cs
+C:\Users\dylan\source\repos\ProjectEulerProblem10\ProjectEulerProblem10\obj\Debug\net5.0\ProjectEulerProblem10.csproj.CoreCompileInputs.cache
+C:\Users\dylan\source\repos\ProjectEulerProblem10\ProjectEulerProblem10\obj\Debug\net5.0\ProjectEulerProblem10.dll
+C:\Users\dylan\source\repos\ProjectEulerProblem10\ProjectEulerProblem10\obj\Debug\net5.0\ref\ProjectEulerProblem10.dll
+C:\Users\dylan\source\repos\ProjectEulerProblem10\ProjectEulerProblem10\obj\Debug\net5.0\ProjectEulerProblem10.pdb
+C:\Users\dylan\source\repos\ProjectEulerProblem10\ProjectEulerProblem10\obj\Debug\net5.0\ProjectEulerProblem10.genruntimeconfig.cache

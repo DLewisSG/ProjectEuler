@@ -1,47 +1,32 @@
 using NUnit.Framework;
-using ProjectEulerModApp;
+using ProjectEulerProblem10;
 
-namespace ModTests
+namespace SummationTests
 {
-    public class Tests
+    public class PrimesSumTests
     {
-        [SetUp]
-        public void Setup()
+        [Test]
+        public void Input_First_Primes_In_10_Expect_Sum_17()
         {
+            int expected = 17;
+            var res = Program.Solve(10);
+            Assert.AreEqual(expected, res);
         }
 
         [Test]
-        public void Input_10_Equals_23()
+        public void Input_First_Primes_In_100_Expect_Sum_1060()
         {
-            var result = Program.Mod(10);
-            Assert.AreEqual(23, result);
+            int expected = 1060;
+            var res = Program.Solve(100);
+            Assert.AreEqual(expected, res);
         }
 
         [Test]
-        public void Input_6_Equals_8()
+        public void Input_First_Primes_In_2_Million_Expect_Sum_142913828922()
         {
-            var result = Program.Mod(6);
-            Assert.AreEqual(8, result);
-        }
-
-        [Test]
-        public void Input_1000_Equals_233168()
-        {
-            var result = Program.Mod(1000);
-            Assert.AreEqual(233168, result);
-        }
-
-        [Test]
-        public void Input_35_Equals_456()
-        {
-            var result = Program.Mod(35);
-            Assert.AreNotEqual(456, result);
-        }
-
-        public void Input_1_Equals_1()
-        {
-            var result = Program.Mod(1);
-            Assert.AreNotEqual(1, result);
+        long expected = 142913828922;
+        var res = Program.Solve(2000000);
+        Assert.AreEqual(expected, res);
         }
     }
 }
