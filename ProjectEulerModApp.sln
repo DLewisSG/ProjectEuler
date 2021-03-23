@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectEulerModApp", "ProjectEulerModApp\ProjectEulerModApp.csproj", "{2D7C048E-0FE7-4D93-BCD0-15A15F595DB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModTests", "ModTests\ModTests.csproj", "{0F6DACF7-C050-4751-B186-C9E13149351D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D7C048E-0FE7-4D93-BCD0-15A15F595DB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D7C048E-0FE7-4D93-BCD0-15A15F595DB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D7C048E-0FE7-4D93-BCD0-15A15F595DB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D7C048E-0FE7-4D93-BCD0-15A15F595DB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F6DACF7-C050-4751-B186-C9E13149351D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F6DACF7-C050-4751-B186-C9E13149351D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F6DACF7-C050-4751-B186-C9E13149351D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F6DACF7-C050-4751-B186-C9E13149351D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85173E0D-A944-4340-AF44-C547B7AF76A9}
+	EndGlobalSection
+EndGlobal
