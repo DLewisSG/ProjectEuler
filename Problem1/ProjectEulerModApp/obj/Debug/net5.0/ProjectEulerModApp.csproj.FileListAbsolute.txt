@@ -1,0 +1,16 @@
+C:\Users\dylan\source\repos\ProjectEulerModApp\ProjectEulerModApp\obj\Debug\net5.0\ProjectEulerModApp.csprojAssemblyReference.cache
+C:\Users\dylan\source\repos\ProjectEulerModApp\ProjectEulerModApp\obj\Debug\net5.0\ProjectEulerModApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dylan\source\repos\ProjectEulerModApp\ProjectEulerModApp\obj\Debug\net5.0\ProjectEulerModApp.AssemblyInfoInputs.cache
+C:\Users\dylan\source\repos\ProjectEulerModApp\ProjectEulerModApp\obj\Debug\net5.0\ProjectEulerModApp.AssemblyInfo.cs
+C:\Users\dylan\source\repos\ProjectEulerModApp\ProjectEulerModApp\obj\Debug\net5.0\ProjectEulerModApp.csproj.CoreCompileInputs.cache
+C:\Users\dylan\source\repos\ProjectEulerModApp\ProjectEulerModApp\bin\Debug\net5.0\ProjectEulerModApp.exe
+C:\Users\dylan\source\repos\ProjectEulerModApp\ProjectEulerModApp\bin\Debug\net5.0\ProjectEulerModApp.deps.json
+C:\Users\dylan\source\repos\ProjectEulerModApp\ProjectEulerModApp\bin\Debug\net5.0\ProjectEulerModApp.runtimeconfig.json
+C:\Users\dylan\source\repos\ProjectEulerModApp\ProjectEulerModApp\bin\Debug\net5.0\ProjectEulerModApp.runtimeconfig.dev.json
+C:\Users\dylan\source\repos\ProjectEulerModApp\ProjectEulerModApp\bin\Debug\net5.0\ProjectEulerModApp.dll
+C:\Users\dylan\source\repos\ProjectEulerModApp\ProjectEulerModApp\bin\Debug\net5.0\ref\ProjectEulerModApp.dll
+C:\Users\dylan\source\repos\ProjectEulerModApp\ProjectEulerModApp\bin\Debug\net5.0\ProjectEulerModApp.pdb
+C:\Users\dylan\source\repos\ProjectEulerModApp\ProjectEulerModApp\obj\Debug\net5.0\ProjectEulerModApp.dll
+C:\Users\dylan\source\repos\ProjectEulerModApp\ProjectEulerModApp\obj\Debug\net5.0\ref\ProjectEulerModApp.dll
+C:\Users\dylan\source\repos\ProjectEulerModApp\ProjectEulerModApp\obj\Debug\net5.0\ProjectEulerModApp.pdb
+C:\Users\dylan\source\repos\ProjectEulerModApp\ProjectEulerModApp\obj\Debug\net5.0\ProjectEulerModApp.genruntimeconfig.cache
